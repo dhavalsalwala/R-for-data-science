@@ -1,0 +1,15 @@
+Package: stackp
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("Dhaval", "Salwala", email = "d.salwala1@nuigalway.ie", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
